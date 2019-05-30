@@ -69,13 +69,13 @@ class CnbRates():
 
 
 
-c = CnbRates()
+#c = CnbRates()
 
-print("latest")
-print(c.latest())
-print("convert")
-print(c.convert(100,"EUR", "USD"))
-print("convert date")
-print(c.convert(100,"EUR", "USD", date="2018-06-06"))
-print("history day")
-print(c.history(date="2018-05-05"))
+#print("latest")
+#print(c.latest())
+#print("convert")
+#print(c.convert(100,"EUR", "USD"))
+#print("convert date")
+#print(c.convert(100,"EUR", "USD", date="2018-06-06"))
+#print("history day")
+#print(c.history(date="2018-05-05"))
